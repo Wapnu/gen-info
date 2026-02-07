@@ -1,0 +1,2 @@
+# gen-info
+2ND YEAR (2ND SEM) - 1ST LAB ACTIVITY
